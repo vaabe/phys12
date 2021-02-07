@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Electrostatics</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Electrostatics</h1>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#firstly"><span class="toc-section-number">1</span> Firstly</a>
+<ul>
+<li><a href="#the-point-of-electrodynamics"><span class="toc-section-number">1.1</span> The point of electrodynamics</a></li>
+<li><a href="#principle-of-superposition"><span class="toc-section-number">1.2</span> Principle of superposition</a></li>
+<li><a href="#electrostatics"><span class="toc-section-number">1.3</span> Electrostatics…</a></li>
+</ul></li>
+<li><a href="#coulombs-law"><span class="toc-section-number">2</span> Coulomb’s Law</a></li>
+<li><a href="#continuous-charge-distributions"><span class="toc-section-number">3</span> Continuous Charge Distributions</a>
+<ul>
+<li><a href="#line-charge-density-lambda"><span class="toc-section-number">3.1</span> Line charge density, <span class="math inline">\(\lambda\)</span></a></li>
+<li><a href="#surface-charge-density-sigma"><span class="toc-section-number">3.2</span> Surface charge density, <span class="math inline">\(\sigma\)</span></a></li>
+<li><a href="#volume-charge-density-rho"><span class="toc-section-number">3.3</span> Volume charge density, <span class="math inline">\(\rho\)</span></a></li>
+</ul></li>
+<li><a href="#the-electric-field"><span class="toc-section-number">4</span> The Electric Field</a></li>
+<li><a href="#references"><span class="toc-section-number">5</span> References</a></li>
+</ul>
+</nav>
+<h1 data-number="1" id="firstly"><span class="header-section-number">1</span> Firstly</h1>
+<h2 data-number="1.1" id="the-point-of-electrodynamics"><span class="header-section-number">1.1</span> The point of electrodynamics</h2>
+<p>Given some <strong>source charges</strong> <span class="math inline">\(q_1, ..., q_n\)</span>, and a <strong>test charge</strong> <span class="math inline">\(Q\)</span>,</p>
+<ol type="1">
+<li>find the force exerted on the test charge by the source charges</li>
+<li>determine the trajectory of the test charge</li>
+</ol>
+<p>In general the source charges and test charge can move. It’s assumed that we know the positions and velocities of the source charges.</p>
+<h2 data-number="1.2" id="principle-of-superposition"><span class="header-section-number">1.2</span> Principle of superposition</h2>
+<p>The interaction between any two charges isn’t affected by the presence of other charges. So the net force on the test charge is just the sum of its interaction forces with each source charge.</p>
+<h2 data-number="1.3" id="electrostatics"><span class="header-section-number">1.3</span> Electrostatics…</h2>
+<p>…is the specific case when all source charges are stationary. Note this isn’t actually a thing irl.</p>
+<h1 data-number="2" id="coulombs-law"><span class="header-section-number">2</span> Coulomb’s Law</h1>
+<p>Describes the force between two charges at rest:</p>
+<p><span class="math display">\[
+\v F_{1} = \frac{1}{4 \pi \eo} \frac{q_1 q_2}{r_{12}^2} \hv r_{12} = -\v F_{2}
+\label{coulomb2}
+\]</span></p>
+<p>where:</p>
+<ul>
+<li><span class="math inline">\(\v F_{1}\)</span> is the force exerted on <span class="math inline">\(q_1\)</span> (by <span class="math inline">\(q_2\)</span>)</li>
+<li><span class="math inline">\(\hv r_{12}\)</span> is the unit vector pointing from <span class="math inline">\(\v r_1\)</span> to <span class="math inline">\(\v r_2\)</span></li>
+<li><span class="math inline">\(\eo\)</span> is the permittivity of free space, <span class="math inline">\(\eo = 8.85 \e{-12} \; \t C^2 / \t N \t m^2\)</span></li>
+</ul>
+<p>In a system with <span class="math inline">\(N\)</span> charges, the Coulomb force on a particular charge is:</p>
+<p><span class="math display">\[
+\v F_i = \frac{q_i}{4\pi\eo} \sum_{j,j \neq i}^N \frac{q_j}{r_{ij}^2} \hv r_{ij} 
+\label{coulombN}
+\]</span></p>
+<p>(via the principle of superposition).</p>
+<h1 data-number="3" id="continuous-charge-distributions"><span class="header-section-number">3</span> Continuous Charge Distributions</h1>
+<p>Equations <span class="math inline">\(\eqref{coulomb2}\)</span> and <span class="math inline">\(\eqref{coulombN}\)</span> assume the system is made of discrete point charges. You can also describe the system as a continuous distribution of charge (provided it’s sufficiently big).</p>
+<p>Notation: unprimed variables (<span class="math inline">\(\v r\)</span>, <span class="math inline">\(q\)</span>, etc) denote the test charge. Primed variables (<span class="math inline">\(\v r&#39;\)</span>, <span class="math inline">\(q&#39;\)</span>, etc) denote the source charge distribution. This is the convention the literature seems to follow.</p>
+<h2 data-number="3.1" id="line-charge-density-lambda"><span class="header-section-number">3.1</span> Line charge density, <span class="math inline">\(\lambda\)</span></h2>
+<p>Defined as the charge per unit length:</p>
+<p><span class="math display">\[
+\lambda = \lim_{\Delta l \rightarrow 0} \frac{\Delta q}{\Delta l}
+\]</span></p>
+<p>Let <span class="math inline">\(\v r&#39;\)</span> be the position of an arbitrary point on the line charge distribution. Then <span class="math inline">\(\lambda = \lambda(\v r&#39;)\)</span>. Let <span class="math inline">\(\v r\)</span> be the position of the test charge <span class="math inline">\(q\)</span>. The force exerted on <span class="math inline">\(q\)</span> by the line charge distribution is:</p>
+<p><span class="math display">\[
+\v F(\v r) = \frac{q}{4\pi\eo} \int_l \frac{\v r - \v r&#39;}{| \v r - \v r&#39;|^3} \lambda(\v r&#39;) \d l&#39;
+\]</span></p>
+<h2 data-number="3.2" id="surface-charge-density-sigma"><span class="header-section-number">3.2</span> Surface charge density, <span class="math inline">\(\sigma\)</span></h2>
+<p>Defined as the charge per unit area:</p>
+<p><span class="math display">\[
+\sigma = \lim_{\Delta S \rightarrow 0} \frac{\Delta q}{\Delta S}
+\]</span></p>
+<p>where <span class="math inline">\(\sigma = \sigma(\v r&#39;)\)</span> and the force exerted on <span class="math inline">\(q\)</span> by the surface charge distribution is:</p>
+<p><span class="math display">\[
+\v F(\v r) = \frac{q}{4\pi\eo} \int_S \frac{\v r - \v r&#39;}{| \v r - \v r&#39;|^3} \sigma(\v r&#39;) \d S&#39;
+\]</span></p>
+<p>where <span class="math inline">\(\d S&#39; = \d^2 r&#39;\)</span>.</p>
+<h2 data-number="3.3" id="volume-charge-density-rho"><span class="header-section-number">3.3</span> Volume charge density, <span class="math inline">\(\rho\)</span></h2>
+<p>Defined as the charge per unit volume:</p>
+<p><span class="math display">\[
+\rho = \lim_{\Delta V \rightarrow 0} \frac{\Delta q}{\Delta V}
+\]</span></p>
+<p>where <span class="math inline">\(\rho = \rho(\v r&#39;)\)</span> and the force exerted on <span class="math inline">\(q\)</span> by the volume charge distribution is:</p>
+<p><span class="math display">\[
+\v F(\v r) = \frac{q}{4\pi\eo} \int_V \frac{\v r - \v r&#39;}{| \v r - \v r&#39; |^3} \rho(\v r&#39;) \d V&#39;
+\]</span></p>
+<p>where <span class="math inline">\(\d V&#39; = \d^3 r&#39;\)</span>. This is the most general form of Coulomb’s law.</p>
+<h1 data-number="4" id="the-electric-field"><span class="header-section-number">4</span> The Electric Field</h1>
+<h1 data-number="5" id="references"><span class="header-section-number">5</span> References</h1>
+<p>Zangwill, <a href="https://www.cambridge.org/core/books/modern-electrodynamics/E5448C70CBF3651B2056F28EBF859AE9">Modern Electrodynamics</a></p>
+<p>Reitz, Milford, Christy, <a href="https://www.pearson.com/us/higher-education/product/Reitz-Foundations-of-Electromagnetic-Theory-4th-Edition/9780201526240.html">Foundations of Electromagnetic Theory</a></p>
+<p>Griffiths, <a href="https://www.pearson.com/uk/educators/higher-education-educators/program/Griffiths-Introduction-to-Electrodynamics-Pearson-New-International-Edition-4th-Edition/PGM1051459.html?tab=overview">Electrodynamics</a></p>
+<p><a href="https://www.feynmanlectures.caltech.edu/II_toc.html">The Feynman Lectures on Physics Volume 2</a></p>
+</body>
+</html>

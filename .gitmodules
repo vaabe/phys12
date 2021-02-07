@@ -1,0 +1,4 @@
+[submodule "themes/tufteish"]
+	path = themes/tufteish
+	url = ssh://git@github.com/vaabe/tufteish
+	branch = phys12
