@@ -25,7 +25,7 @@ Here's the (rough) rubric I use when grading your report:
 - **Analysis of results, discussion questions: (2-3 points)**:
 	- A discussion of your results. You should explain what they show, and how they demonstrate the physics principles from your theory section. 
 	- Compare your experimental values to the theoretical ones. Why are they different? (see: sources of error). 
-	- Your answers to the questions in the manual. Often these questions are an integral part of the discussion, and you should try and integrate your answers into this discussion. It's also totally fine if you answer the questions separately.  
+	- You should answer the questions in the manual. Often these questions are an important part of the discussion, and you should try and integrate your answers into this discussion. It's also totally fine if you answer the questions separately.  
 
 - **Sources of error: (2 points)**:
 	- Factors that may have caused impresicions/inaccuracies in the results. 
