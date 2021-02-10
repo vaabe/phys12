@@ -1,4 +1,4 @@
-# Instructions
+# Sonometer Lab - Instructions
 
 The point of the lab is to demonstrate how the normal mode frequency of a string depends on length, tension, and mass density. Read through the manual. You'll see there are four experiments in this lab:
 
