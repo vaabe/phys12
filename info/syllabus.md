@@ -1,36 +1,42 @@
 ---
-title: "Draft Syllabus: GP2 Lab"
+title: "Syllabus: GP2 Lab"
 semester: "Spring 2021"
 ---
 
 # Info
 
-- Instructor: Vinu Abeywick 
-- Email: <vabe@nyu.edu>
+- Instructor: 
+	+ Vinu Abeywick, <vabe@nyu.edu>
 - Class Hours: 
-	+ Sec 04: Thu 11.00am-1.20pm 
-	+ Sec 08: Thu 1.30pm-3.50pm
-- Room: Meyer 222
-- Zoom Office Hours: TBD
+	+ Sec 04: Thu 11.00am-1.20pm (Meyer 222)
+	+ Sec 08: Thu 1.30pm-3.50pm (Meyer 222)
+- Office Hours: 
+	+ Tue/Wed/Fri 4.00pm-5.00pm (ET)
+	+ [https://nyu.zoom.us/j/91270104640](https://nyu.zoom.us/j/91270104640)
+- Course Site:
+	+ [https://github.com/vaabe/phys12](https://github.com/vaabe/phys12)
+- Google Drive: 
+	+ [https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing)
+
 
 # Description
 
-This laboratory course is intended to help you understand the basic principles of waves, electromagnetism, and optics. There are 10 labs in total and you're expected to write up a lab report for each one. We've structured the timeline so there are no labs during exam weeks.  
+This laboratory course is intended to help you understand the basic principles of waves, electromagnetism, and optics. There are 10 labs in total:  
 
 -----			-----
-Feb 11			Lab 1: Sonometer
-Feb 18			No Lab!
-Feb 25			Lab 2: Resonance Tube
-Mar 4			Lab 3: Electrostatics
-Mar 11			Lab 4: Electric Field Mapping
-Mar 18			No Lab!
-Mar 25			Lab 5: Voltage, Current, Resistance
-Apr 1			Lab 6: Charge to Mass Ratio of Electron
-Apr 8			Lab 7: Current Balance
-Apr 15			Lab 8: Induction
-Apr 22 			No Lab!
-Apr 29 			Lab 9: Snell's Law
-May 4			Lab 10: Eye
+Feb 11			1 - Sonometer
+Feb 18			
+Feb 25			2 - Resonance Tube
+Mar 4			3 - Electrostatics
+Mar 11			4 - Electric Field Mapping
+Mar 18			
+Mar 25			5 - Voltage, Current, Resistance
+Apr 1			6 - Charge to Mass Ratio of Electron
+Apr 8			7 - Current Balance
+Apr 15			8 - Induction
+Apr 22 			
+Apr 29 			9 - Snell's Law
+May 4			10 - Eye
 -----			-----
 
 # In-Person vs Remote
@@ -43,37 +49,25 @@ If you're taking the course in-person, you will perform the experiments individu
 
 # Remote Labs 
 
-Each week we'll share a folder with you containing the lab materials (data, videos, simulations, etc). You should base your report on the data we provide. Since you can do most of this work on your own time, there are no mandatory lab meetings for remote sections. There will be two or three weekly office hours on zoom where you can (and should) ask me questions. It's your responsibility to manage your time and keep up with the schedule.  
+Each week we'll post the relevant lab materials (data, videos, simulations, etc) in the [google drive folder](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing). You should base your report on the data we provide. There will be two or three zoom office hours each week. These meetings aren't mandatory but I encourage you to show up and ask questions. Asides from that you'll be working fairly independently, and  it's your responsibility to manage your time and keep up with the schedule.  
 
 # Lab Reports
 
-Each week you will write a lab report on the experiment you performed that week. The report is due one week after the scheduled lab session (Thursday).  
-
-Reports will be marked out of 10. Here is a rough breakdown:
+Each week you will write a lab report on the experiment you performed that week. It's due one week after the scheduled lab session. I will mark your submission out of 10:  
 
 - **Theory: /2**
-	+ A full writeup of the physics principles and equations used in the experiment. 
-	+ Don't be economical with this section. Your writeup should demonstrate that you actually understand the concepts. You should derive equations, show how they relate to each other, etc. 
-	+ In many ways the theory writeup is an opportunity for you to actually learn the material and make some notes on it. If you already have your own notes, use them 
-	+ This semester I'll post more resources/references for further reading. 
-
 - **Experiment Setup: /2**
- 	+ Description of what exactly you did in the experiment. The variables you measured, the instruments you used to measure them, the assumptions you made. Diagrams are good. 
-
 - **Results: /6** (split into three subsections)
-
 	+ **Presentation of data: /2**
-		+ You should present your data clearly. 
-
 	+ **Analysis of results, discussion questions: /2**
-		+ You should discuss your results, explain how they (mis?)-represent the underlying physics, and answer the discussion questions in the manual. 
-
 	+ **Sources of error: /2**
-		+ Factors that may have caused impresicions/inaccuracies in the results. Your sources of error should be relevant to the experiment and the data you have. You should also critique the experiment design (I take kindly to this). 
 
+I've also posted a guide with more detailed advice on writing reports. Give it a read if you're stumped for ideas. 
 
-This is a draft rubric. If you think I should allocate more/less points to certain sections, let me know. 
+# Deadlines
 
-# Class Resource Sharing?
+Reports are due on Thursdays (one week after they're assigned). Please be reasonable about this.  
 
-In the past we've used Google Drive for sharing lab material and NYU Classes (ugh) for submitting reports. I seem to recall people had various issues with this setup last semester. If you want me to post material on another platform (e.g. Github Classroom, Dropbox, Baidu, etc), or if you have any other thoughts, let me know and I'll look into it.  
+# Resubmission
+
+Throughout the semester I'll allow you to resubmit two reports for a better grade. Email me. 
