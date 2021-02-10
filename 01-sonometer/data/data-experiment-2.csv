@@ -1,0 +1,6 @@
+﻿normalMode,distanceBetweenBridges_m,massDensityOfString_kg/m,massOfHanger_kg,tensionInString_N,notch,frequency_Hz
+1,0.40,0.00184,3.00,29.43,3,213.302
+1,0.50,0.00184,3.00,29.43,3,161.904
+1,0.60,0.00184,3.00,29.43,3,125.925
+1,0.70,0.00184,3.00,29.43,3,105.366
+1,0.80,0.00184,3.00,29.43,3,95.086
