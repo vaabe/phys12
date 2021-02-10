@@ -44,7 +44,7 @@ Here's the (rough) rubric I use when grading your report:
 
 - **Structure:** is actually somewhat important, but I (probably) won't take points off for it, since it usually boils down to arbitrary preferences/conventions. If I think there are improvements you can make to how you organize your report, I'll let you know in my comments. Again, just make sure I can basically follow what you're saying. 
 
-- **Conclusion:** at this point you're really just restating what you already said, so there isn't really a pedagogically-motivated reason you need to spend too much time on this (if at all). I'll leave it up to you. In general you don't need to write anything that feels "fake". 
+- **Conclusion:** you're really just restating what you already said, so there isn't really a pedagogically-motivated reason you need to spend too much time on this (if at all). I'll leave it up to you. In general you don't need to write anything that feels "fake". 
 
 # Error Analysis
 
