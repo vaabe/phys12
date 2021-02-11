@@ -1,8 +1,9 @@
+# gp2lab
+
 ## Contact
 
 - Email: [vabe@nyu.edu](vabe@nyu.edu)
-- Office Hours: Tue/Wed/Fri 4.00pm-5.00pm (ET)
-	+ [https://nyu.zoom.us/j/91270104640](https://nyu.zoom.us/j/91270104640)
+- Office Hours: [Tue/Wed/Fri 4.00pm-5.00pm (ET)](https://nyu.zoom.us/j/91270104640)
 
 ## Resources
 
@@ -11,7 +12,6 @@
 
 ## Schedule
 
-| Week Of | Lab |
 |---	  |---  |
 | Feb 11 | Sonometer |
 | Feb 1 |		|	
