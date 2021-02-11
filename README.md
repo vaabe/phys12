@@ -12,6 +12,7 @@
 
 ## Schedule
 
+| Week of | Lab |
 |---	  |---  |
 | Feb 11 | Sonometer |
 | Feb 1 |		|	
