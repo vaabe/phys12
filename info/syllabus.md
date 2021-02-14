@@ -5,18 +5,22 @@ semester: "Spring 2021"
 
 # Info
 
-- Instructor: 
-	+ Vinu Abeywick, <vabe@nyu.edu>
-- Class Hours: 
-	+ Sec 04: Thu 11.00am-1.20pm (Meyer 222)
-	+ Sec 08: Thu 1.30pm-3.50pm (Meyer 222)
-- Office Hours: 
-	+ Tue/Wed/Fri 4.00pm-5.00pm (ET)
-	+ [https://nyu.zoom.us/j/91270104640](https://nyu.zoom.us/j/91270104640)
-- Course Site:
-	+ [https://github.com/vaabe/phys12](https://github.com/vaabe/phys12)
-- Google Drive: 
-	+ [https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing)
+- **Instructor:** Vinu Abeywick, [vabe@nyu.edu](mailto:vabe@nyu.edu)
+
+- **Room:** Meyer 222
+
+- **Class Hours:** 
+	+ Sec 07: Mon 1.30pm-3.50pm
+	+ Sec 11: Mon 4.00pm-6.20pm
+	+ Sec 04: Thu 11.00am-1.20pm 
+	+ Sec 08: Thu 1.30pm-3.50pm 
+
+- **Office Hours:** [nyu.zoom.us/j/91270104640](https://nyu.zoom.us/j/91270104640)
+	+ Tue/Wed/Fri 4.00pm-5.00pm ET (or by appointment---please ask)
+
+- **Course Site:** [vabeywick.com/teaching/gp2](https://github.com/vaabe/phys12)
+
+- **Google Drive:** [drive.google.com/drive/folders/1onTfWs8QGWsOP...](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing)
 
 
 # Description
@@ -51,9 +55,9 @@ If you're taking the course in-person, you will perform the experiments individu
 
 Each week we'll post the relevant lab materials (data, videos, simulations, etc) in the [google drive folder](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing). You should base your report on the data we provide. There will be two or three zoom office hours each week. These meetings aren't mandatory but I encourage you to show up and ask questions. Asides from that you'll be working fairly independently, and  it's your responsibility to manage your time and keep up with the schedule.  
 
-# Lab Reports
+# Assignments
 
-Each week you will write a lab report on the experiment you performed that week. It's due one week after the scheduled lab session. I will mark your submission out of 10:  
+Each week you will write a report on the experiment you performed that week. It's due one week after the scheduled lab session. I will mark your submission out of 10:  
 
 - **Theory: /2**
 - **Experiment Setup: /2**
