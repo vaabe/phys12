@@ -1,6 +1,6 @@
 ---
 title: "Syllabus: GP2 Lab"
-semester: "Spring 2021"
+subtitle: "Spring 2021"
 ---
 
 # Info
@@ -15,12 +15,12 @@ semester: "Spring 2021"
 	+ Sec 04: Thu 11.00am-1.20pm 
 	+ Sec 08: Thu 1.30pm-3.50pm 
 
-- **Office Hours:** [nyu.zoom.us/j/91270104640](https://nyu.zoom.us/j/91270104640)
+- **Office Hours:** [https://nyu.zoom.us/j/91270104640](https://nyu.zoom.us/j/91270104640)
 	+ Tue/Wed/Fri 4.00pm-5.00pm ET (or by appointment---please ask)
 
-- **Course Site:** [vabeywick.com/teaching/gp2](https://github.com/vaabe/phys12)
+- **Course Site:** [https://physlab.fun](https://physlab.fun)
 
-- **Google Drive:** [drive.google.com/drive/folders/1onTfWs8QGWsOP...](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing)
+- **Google Drive:** [[link]](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing)
 
 
 # Description
