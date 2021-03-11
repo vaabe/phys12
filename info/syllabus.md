@@ -20,6 +20,8 @@ subtitle: "Spring 2021"
 
 - **Google drive:** [[link]](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing)
 
+- **Github:** [https://github.com/vaabe/phys12](https://github.com/vaabe/phys12)
+
 - **Miscellaneous resources/demos:** [https://physlab.fun](https://physlab.fun)
 
 
