@@ -1,0 +1,3 @@
+[submodule "phanimations"]
+	path = phanimations
+	url = ssh://git@github.com/vaabe/phanimations
