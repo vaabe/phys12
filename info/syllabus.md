@@ -9,18 +9,18 @@ subtitle: "Spring 2021"
 
 - **Room:** Meyer 222
 
-- **Class Hours:** 
+- **Class hours:** 
 	+ Sec 07: Mon 1.30pm-3.50pm
 	+ Sec 11: Mon 4.00pm-6.20pm
 	+ Sec 04: Thu 11.00am-1.20pm 
 	+ Sec 08: Thu 1.30pm-3.50pm 
 
-- **Office Hours:** [https://nyu.zoom.us/j/91270104640](https://nyu.zoom.us/j/91270104640)
+- **Office hours:** [https://nyu.zoom.us/j/91270104640](https://nyu.zoom.us/j/91270104640)
 	+ Tue/Wed/Fri 4.00pm-5.00pm ET (or by appointment---please ask)
 
-- **Course Site:** [https://physlab.fun](https://physlab.fun)
+- **Google drive:** [[link]](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing)
 
-- **Google Drive:** [[link]](https://drive.google.com/drive/folders/1onTfWs8QGWsOP_3PFigj7CvMpJUr_Kn4?usp=sharing)
+- **Miscellaneous resources/demos:** [https://physlab.fun](https://physlab.fun)
 
 
 # Description
@@ -57,7 +57,7 @@ Each week we'll post the relevant lab materials (data, videos, simulations, etc)
 
 # Assignments
 
-Each week you will write a report on the experiment you performed that week. It's due one week after the scheduled lab session. I will mark your submission out of 10:  
+Each week you will write a report on the experiment you performed that week. I will mark your submission out of 10:  
 
 - **Theory: /2**
 - **Experiment Setup: /2**
@@ -70,7 +70,7 @@ I've also posted a guide with more detailed advice on writing reports. Give it a
 
 # Deadlines
 
-Reports are due on Thursdays (one week after they're assigned). Please be reasonable about this.  
+Reports are due at the beginning of the next scheduled session (i.e. Thursdays). Please be reasonable.  
 
 # Resubmission
 
