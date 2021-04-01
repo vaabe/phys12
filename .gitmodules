@@ -1,3 +1,6 @@
 [submodule "phanimations"]
 	path = phanimations
 	url = ssh://git@github.com/vaabe/phanimations
+[submodule "grading"]
+	path = grading
+	url = ssh://git@github.com/vaabe/grading
