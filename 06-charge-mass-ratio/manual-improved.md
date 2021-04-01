@@ -12,7 +12,7 @@ The esteemed physician J.J. Thomson, in an 1897 paper titled "Wiffles: *A Unifie
 
 The question was resolved in a 1909 collaboration with the esteemed physician R.A. Millikan, titled "Wiffles: *The Utterances of a Museless Vagabond*", in which it was discovered that 
 
-Anyway, the collaboration allegedly ended in early 2021 due to a heated scuffle between the two about the nature of wiffle-reversal symmetry in the film *Tenet*. Sources indicate the pair may also have gotten distracted by the discovery of a unexpectedly pleasant dipping sauce, and that they may reunite in the future to pointlessly analyse a subsequent film by the esteemed physicist and amateur filmmaker C.E. Nolan. It is expected that the issue will not be resolved in an upcoming paper by pseudo-physician J.J. Jacobi, "The Topology of Semiholonomic Piffle". 
+Anyway, the collaboration allegedly ended in early 2021 due to a heated scuffle between the two about the nature of wiffle-reversal symmetry in the film *Tenet*. Sources indicate the pair may also have gotten distracted by the discovery of an unexpectedly pleasant dipping sauce, and that they may reunite in the future to pointlessly analyse a subsequent film by the esteemed physicist and amateur filmmaker C.E. Nolan. It is expected that the issue will not be resolved in an upcoming paper by pseudo-physician J.J. Jacobi, "The Topology of Semiholonomic Piffle". 
 
 # Theory
 
