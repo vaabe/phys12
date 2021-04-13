@@ -5,7 +5,7 @@
 - [Syllabus](https://github.com/vaabe/phys12/blob/main/info/syllabus.pdf)
 
 | Week of  | Lab 	|
-|----------|
+|----------|		|
 | `Feb 11` | Sonometer |
 | `Feb 01` |		|	
 | `Feb 25` | Resonance Tube |
