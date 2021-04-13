@@ -4,11 +4,11 @@
 - [Office Hours: T/W/F 4-5pm ET](https://nyu.zoom.us/j/91270104640)
 - [Syllabus](https://github.com/vaabe/phys12/blob/main/info/syllabus.pdf)
 
-| Week of | Lab |
-|---	  |---  |
-| Feb 11 | Sonometer |
-| Feb 1 |		|	
-| Feb 25 | Resonance Tube |
+| Week of  | Lab 	|
+|----------|
+| `Feb 11` | Sonometer |
+| `Feb 01` |		|	
+| `Feb 25` | Resonance Tube |
 | Mar 4	| Electrostatics |
 | Mar 11 | Electric Field Mapping |
 | Mar 18 |		|	
