@@ -1,6 +1,6 @@
 # gp2lab
 
-- [`vabe@nyu.edu`](vabe@nyu.edu)
+- [`vabe@nyu.edu`](mailto:vabe@nyu.edu)
 - [Office Hours: T/W/F 4-5pm ET](https://nyu.zoom.us/j/91270104640)
 - [Syllabus](https://github.com/vaabe/phys12/blob/main/info/syllabus.pdf)
 
